@@ -1,7 +1,7 @@
 <Solution>
-  <Project Path="lab.client/grocery.client.esproj">
+  <Project Path="grocery.client/grocery.client.esproj">
     <Build />
     <Deploy />
   </Project>
-  <Project Path="Lab.Server/grocery.Server.csproj" />
+  <Project Path="grocery.Server/grocery.Server.csproj" />
 </Solution>
